@@ -17,8 +17,6 @@ From raw CSV files to actionable business insights — this project covers the *
 
 ---
 
-### Key Features & Deliverables
-
 ## Key Features of the Project
 
 # FeatureDescription1Medallion Architecture (Bronze → Silver → Gold)Full implementation of the modern data lakehouse/warehouse pattern for scalability and governance2Bronze Layer – Raw Ingestion• Lands data exactly as received from source systems (CRM & ERP CSVs)
